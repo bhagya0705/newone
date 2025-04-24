@@ -1,4 +1,4 @@
 # newone
-This is my first GIT repository and first
+This is my first GIT repository
 <br>
 Author-Bhagya Dhingra
